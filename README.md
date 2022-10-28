@@ -48,6 +48,7 @@
     -- //save the file
 
 -- in vscode terimal type
+
     -- git init    // Enter
         
     -- git remote add origin http://github.com/account-name/project-name.git    // Enter
