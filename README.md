@@ -70,6 +70,7 @@
 * You Web Site Will Be Live *
 
 -- mantain the deploy --
+
     -- git stauts    // Enter
 
     -- git add .    // Enter
